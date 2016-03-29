@@ -1,0 +1,5 @@
+- User is able to register which is validated with server
+- User is able to log in, server checks users login details before opening auction window
+- User is able to submit items for auction
+- User is able to view items available for auction but not bid on them :(
+- no persistent storage - program forgets when closed
